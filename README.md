@@ -1,6 +1,3 @@
-Creating a README for your GitHub project is an excellent way to provide users and contributors with crucial information about your project. Below is a structured suggestion based on your React-based to-do list application:
-
----
 
 # Todo List Application
 
